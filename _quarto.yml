@@ -17,6 +17,19 @@ website:
       - icon: github
         href: https://github.com/seoyeonc
         
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - 1_studies.qmd
+      - section: "**Research**"
+        contents:
+          - 2_research.qmd
+      - section: "**Result**"
+        contents:
+          - 3_table.qmd
+          - 4_figure.qmd
+        
 format:
   html:
     theme: 
