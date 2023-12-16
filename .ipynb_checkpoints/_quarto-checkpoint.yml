@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "HCAM_blog"
+  title: "HCAM blog"
   
   page-footer:
     border: true
