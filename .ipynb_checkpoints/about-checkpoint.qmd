@@ -9,4 +9,4 @@ about:
       href: https://github.com/seoyeonc
 ---
 
-This blog indicates GODE information.
+This blog indicates HCAM information.
