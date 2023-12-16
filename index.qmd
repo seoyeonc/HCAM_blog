@@ -1,5 +1,5 @@
 ---
-title: "HCAM_blog"
+title: "HCAM blog"
 listing:
   contents: posts
   sort: [date desc,title]
@@ -22,7 +22,7 @@ This blog indicates information of HCAM.
 
 ## CAM
 
-- **PClass Activation Map**: <https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf>
+- **Class Activation Map**: <https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf>
 
 ## Existed Thesis related CAM
 
