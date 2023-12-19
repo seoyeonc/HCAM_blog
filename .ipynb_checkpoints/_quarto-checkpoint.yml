@@ -27,7 +27,6 @@ website:
           - 2_research.qmd
       - section: "**Result**"
         contents:
-          - 3_table.qmd
           - 3_figure.qmd
         
 format:
