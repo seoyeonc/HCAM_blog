@@ -26,6 +26,14 @@ This blog indicates information of HCAM.
 
 ## Existed Thesis related CAM
 
-- **grad-cam**: <https://arxiv.org/pdf/1610.02391.pdf> 
+- [**GradCAM**](https://arxiv.org/abs/1610.02391)
+- [**HiResCAM**](https://arxiv.org/abs/2011.08891)
+- [**GradCAMPlusPlus**](https://arxiv.org/abs/1710.11063)
+- [**AblationCAM**](https://ieeexplore.ieee.org/abstract/document/9093360/)
+- **XGradCAM**
+- [**EigenCAM**](https://arxiv.org/abs/2008.00299)
+- [**FullGrad**](https://arxiv.org/abs/1905.00780)
+- **EigenGradCAM**
+- [**LayerCAM**](http://mftp.mmcheng.net/Papers/21TIP_LayerCAM.pdf)
 
 :::
