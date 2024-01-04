@@ -26,7 +26,7 @@ This blog provides information on HCAM.
 
 ## Existed Thesis related CAM
 
-- [**GradCAM**](https://arxiv.org/abs/1610.02391)
+- [**GradCAM**](https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html)
 - [**HiResCAM**](https://arxiv.org/abs/2011.08891)
 - [**GradCAMPlusPlus**](https://arxiv.org/abs/1710.11063)
 - [**AblationCAM**](https://ieeexplore.ieee.org/abstract/document/9093360/)
