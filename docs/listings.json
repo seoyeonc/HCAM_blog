@@ -15,8 +15,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/2_research/2024-01-05-CAM_Dataset1.html",
       "/posts/2_research/2023-12-26-HCAM_edit_cat.html",
       "/posts/2_research/2023-12-26-HCAM_edit_dog.html",
+      "/posts/2_research/test.html",
       "/posts/2_research/2023-11-29-HCAM_Tutorial.html",
       "/posts/2_research/2023-11-09-CAM_Scorecam_rst.html",
       "/posts/3_result/3_figure/2023-10-31-HCAM_Other_Methods_chest_xray.html",
@@ -35,7 +37,9 @@
   {
     "listing": "/2_research.html",
     "items": [
+      "/posts/2_research/2024-01-05-CAM_Dataset1.html",
       "/posts/2_research/2023-12-26-HCAM_edit_dog.html",
+      "/posts/2_research/test.html",
       "/posts/2_research/2023-12-26-HCAM_edit_cat.html",
       "/posts/2_research/2023-11-29-HCAM_Tutorial.html",
       "/posts/2_research/2023-11-09-CAM_Scorecam_rst.html",
